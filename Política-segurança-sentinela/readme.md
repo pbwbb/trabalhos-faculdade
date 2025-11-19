@@ -1,1 +1,1 @@
-Trabalho ficticio baseado na sentinela controladoria
+Trabalho baseado em dados ficticios para fins academicos.
